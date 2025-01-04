@@ -27,7 +27,7 @@ img {
 
 .card-container {
   background-color: var(--background-card);
-  max-width: 310px;
+  max-width: 300px;
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -50,6 +50,7 @@ img {
 }
 .main-text {
   color: var(--main-text);
+  font-size: 22px;
   font-weight: 700;
   line-height: 140%;
   width: 17ch;
