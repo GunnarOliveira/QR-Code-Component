@@ -1,4 +1,4 @@
-# Blog Preview Card Main 🌐✨
+#QR-code Component 🌐✨
 
 Welcome to the solution repository for the **QR code component** challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)! This project focuses on creating a QR code component and get it looking as close to the design as possible. using HTML and CSS, with a responsive and modern design.
 
@@ -30,12 +30,12 @@ Welcome to the solution repository for the **QR code component** challenge by [F
 
 ## How to View 🚀
 
-[Check out the live project here](https://gunnaroliveira.github.io/blog-preview-card-main/) or
+[Check out the live project here](https://gunnaroliveira.github.io/QR-Code-Component/) or
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-preview-card-main.git
+   git clone https://github.com/GunnarOliveira/QR-Code-Component.git
 
    ```
 
