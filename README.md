@@ -1,4 +1,4 @@
-#QR-code Component 🌐✨
+# QR-code Component 🌐✨
 
 Welcome to the solution repository for the **QR code component** challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)! This project focuses on creating a QR code component and get it looking as close to the design as possible. using HTML and CSS, with a responsive and modern design.
 
