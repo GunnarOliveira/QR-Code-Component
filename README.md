@@ -7,7 +7,7 @@ Welcome to the solution repository for the **QR code component** challenge by [F
 - **`assets/`**: Contains all static assets for the project.
 
   - **`fonts/`**: Font files used in the design.
-  - **`images/`**: Images such as avatar and illustrations used in the layout.
+  - **`images/`**: Images illustrations used in the layout.
   - **`style.css`**: Main stylesheet for the project.
   - **`design/`**: Contains reference images provided for the development process.
 
