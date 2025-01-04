@@ -51,10 +51,15 @@ img {
 .main-text {
   color: var(--main-text);
   font-weight: 700;
-  max-width: 17ch;
+  line-height: 140%;
+  width: 17ch;
+  text-align: center;
 }
 .second-text {
-  padding: 0px 20px;
   color: var(--second-text);
   font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0.2px;
+  line-height: 140%;
+  width: 26ch;
 }
